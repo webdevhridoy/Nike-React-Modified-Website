@@ -1,0 +1,39 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing:border-box;
+    font-family: 'Bebas Neue', cursive;
+    font-family: 'Roboto', sans-serif;
+}
+.background-color {
+    background-color: #FFF9F4 !important;
+}
+.tcolor {
+    color: #3C3C3C;
+}
+.text-title {
+    color:#FA804C;
+}
+.nike-title {
+    color: #FA804C;
+    font-family: 'Bebas Neue', cursive;
+}
+.nike-title-2 {
+    color: #363958;
+    font-family: 'Bebas Neue', cursive;
+}
+.para-text {
+    color: #3E3E3E;
+}
+.bt-color {
+    background-image: linear-gradient(#3D4FF3, #3543BC);
+}
+.fa-solid {
+    margin-right: 10px;
+}
+.casual-shoes {
+    color: #363958;
+}
+.price-color {
+    color: #FA804C;
+}
